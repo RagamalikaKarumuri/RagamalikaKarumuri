@@ -9,8 +9,9 @@
   
 - 🌱 I’m currently learning about Artificial Intelligence and its applications in various domains, with a particular interest in Gen AI.
 - 💞️ I’m looking to collaborate on projects related to AI, machine learning, and data science
-  
-📫 ## Connect with Me
+
+
+## 📫Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/ragamalikak/)
 - [Email](mailto:karumuri.r@northeastern.edu)
   
