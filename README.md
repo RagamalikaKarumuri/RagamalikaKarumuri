@@ -9,7 +9,7 @@
 - Emerging Technologies
 - Decision Making with Data
 
-## 📫Connect with Me  
+## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/ragamalikak/)
 - [Email](mailto:karumuri.r@northeastern.edu)
 
