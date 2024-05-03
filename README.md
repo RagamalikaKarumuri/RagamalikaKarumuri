@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Ragamalika Karumuri</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/RagamalikaKarumuri/RagamalikaKarumuri/main/banner-3.png"> </div>
+<div align="center"> <img src="[https://raw.githubusercontent.com/RagamalikaKarumuri/RagamalikaKarumuri/main/banner-3.png](https://avatars.githubusercontent.com/u/165847709?s=400&u=8cf94b8630d8a8e380aed559a802fad9fc6e5e94&v=4)"> </div>
 <h3 align="center">Crafting Data Stories: The Journey of a Passionate Software Data Engineer</h3>
 
 🔭 I’m currently working on I'm currently working on Python and AWS-related projects.
