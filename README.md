@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on I'm currently working on Python and AWS-related projects.
 
-🌱 I’m currently learning **the ins and outs of Big Data Technologies, with a special emphasis on mastering AWS for unparalleled scalability and efficiency in data processing**
+🌱 I’m currently learning the ins and outs of Big Data Technologies, with a special emphasis on mastering AWS for unparalleled scalability and efficiency in data processing
 
 👨‍💻 All of my projects are available at **[https://github.com/RagamalikaKarumuri](https://github.com/RagamalikaKarumuri)**
 
