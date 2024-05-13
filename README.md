@@ -14,10 +14,10 @@ Check my Portfolio at **[https://ragamalikakarumuri.sites.northeastern.edu/portf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ragamalikak/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="mail" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/ragamalikak/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="mail" height="30" width="40" /></a>
 
 <a href="mailto:karumuri.r@northeastern.edu" target="_blank">
-    <img align="center" src="https://illustoon.com/photo/2751.png" alt="email" height="55" width="50" /></a>
+    <img align="center" src="https://illustoon.com/photo/2751.png" alt="email" height="30" width="40" /></a>
  
 </p>
 
