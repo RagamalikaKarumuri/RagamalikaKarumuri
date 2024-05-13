@@ -6,6 +6,7 @@
 🌱 I’m currently learning the ins and outs of Big Data Technologies, with a special emphasis on mastering AWS for unparalleled scalability and efficiency in data processing
 
 👨‍💻 All of my projects are available at **[https://github.com/RagamalikaKarumuri](https://github.com/RagamalikaKarumuri)** 
+
 Check my Portfolio at **[https://ragamalikakarumuri.sites.northeastern.edu/portfolio/](https://ragamalikakarumuri.sites.northeastern.edu/portfolio/)**
 
 📫 How to reach me **karumuri.r@northeastern.edu**
